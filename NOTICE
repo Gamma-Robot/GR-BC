@@ -1,0 +1,11 @@
+GR-BC includes LeRobot code from the Hugging Face LeRobot project,
+https://github.com/huggingface/lerobot, licensed under Apache-2.0.
+Original copyright and license headers are retained in the source files.
+
+The bundled implementation is based on LeRobot package version 0.4.4 with
+GR-BC training integration. See docs/ACKNOWLEDGEMENTS.md for upstream credits.
+
+GR-BC uses the MCR representation described in Robots Pre-Train Robots:
+Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets,
+https://github.com/luccachiang/robots-pretrain-robots.
+No MCR or VLA checkpoints are redistributed in this repository.

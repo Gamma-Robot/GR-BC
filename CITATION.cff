@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use GR-BC, please cite our paper."
+title: "Graph-Reweighted Behavior Cloning with Human Interventions for Precise Robotic Manipulation"
+type: software
+authors:
+  - family-names: Li
+    given-names: Xiaoman
+  - family-names: Yang
+    given-names: Zhiqiang
+  - family-names: Hu
+    given-names: Jiayu
+  - family-names: Kong
+    given-names: Jipeng
+  - family-names: Zhang
+    given-names: Yang
+  - family-names: Zhang
+    given-names: Jingwei
+  - family-names: Yan
+    given-names: Fangzheng
+  - family-names: Shen
+    given-names: Chunhua
+  - family-names: Bai
+    given-names: Chenjia
+repository-code: "https://github.com/Gamma-Robot/GR-BC"
+url: "https://gr-bc.github.io/"
+license: Apache-2.0
+identifiers:
+  - type: url
+    value: "https://arxiv.org/abs/2610.20504"
+    description: "GR-BC paper (arXiv:2610.20504)"

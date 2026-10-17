@@ -1,0 +1,20 @@
+{
+  "stride": 15,
+  "history": 0,
+  "mutual_k": 20,
+  "adaptive_edge_alpha": 1.0,
+  "adaptive_base_scale": 0.0001,
+  "min_camera_hits": 3,
+  "sim_cost_scale": 1.0,
+  "chunk": 30,
+  "n_action_step": 30,
+  "progress_dip_tolerance": 0.03,
+  "min_delta_progress": 0.002,
+  "flat_weight": 0.0,
+  "weight_alpha": 0.5,
+  "weight_gamma": 20,
+  "weight_min": 0.5,
+  "weight_max": 1.5,
+  "rmax_quantile": 0.95,
+  "interpolation": "paper"
+}
